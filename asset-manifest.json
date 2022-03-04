@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tari38.github.io/csb-q7vn15/static/css/main.85bb22e8.chunk.css",
+    "main.js": "https://tari38.github.io/csb-q7vn15/static/js/main.2187e79a.chunk.js",
+    "main.js.map": "https://tari38.github.io/csb-q7vn15/static/js/main.2187e79a.chunk.js.map",
+    "runtime-main.js": "https://tari38.github.io/csb-q7vn15/static/js/runtime-main.691d5230.js",
+    "runtime-main.js.map": "https://tari38.github.io/csb-q7vn15/static/js/runtime-main.691d5230.js.map",
+    "static/js/2.e0f5223f.chunk.js": "https://tari38.github.io/csb-q7vn15/static/js/2.e0f5223f.chunk.js",
+    "static/js/2.e0f5223f.chunk.js.map": "https://tari38.github.io/csb-q7vn15/static/js/2.e0f5223f.chunk.js.map",
+    "index.html": "https://tari38.github.io/csb-q7vn15/index.html",
+    "static/css/main.85bb22e8.chunk.css.map": "https://tari38.github.io/csb-q7vn15/static/css/main.85bb22e8.chunk.css.map",
+    "static/js/2.e0f5223f.chunk.js.LICENSE.txt": "https://tari38.github.io/csb-q7vn15/static/js/2.e0f5223f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.691d5230.js",
+    "static/js/2.e0f5223f.chunk.js",
+    "static/css/main.85bb22e8.chunk.css",
+    "static/js/main.2187e79a.chunk.js"
+  ]
+}
